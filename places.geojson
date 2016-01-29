@@ -5,11 +5,187 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-84.3913985, 33.7518869]
+      },
+      "properties": {
+        "Name": "The Iron Yard - Atlanta",
+        "marker-color": "#233139"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-84.412062, 33.7852523]
       },
       "properties": {
         "Name": "YEAH! Burger",
-        "marker-color": "#233139"
+        "marker-color": "#6fbbb7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3799604, 33.7539262]
+      },
+      "properties": {
+        "Name": "Bell Street Burritos",
+        "marker-color": "#6fbbb7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3446322, 33.7403169]
+      },
+      "properties": {
+        "Name": "Holy Taco",
+        "marker-color": "#6fbbb7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.412062, 33.7852523]
+      },
+      "properties": {
+        "Name": "Grindhouse",
+        "marker-color": "#6fbbb7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.4128987, 33.7874253]
+      },
+      "properties": {
+        "Name": "Taqueria Del Sol",
+        "marker-color": "#6fbbb7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.4256539, 33.7938504]
+      },
+      "properties": {
+        "Name": "Bone Garden",
+        "marker-color": "#6fbbb7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.4094026, 33.7788649]
+      },
+      "properties": {
+        "Name": "Bar Taco",
+        "marker-color": "#6fbbb7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3797443, 33.7473903]
+      },
+      "properties": {
+        "Name": "Nick's Food To Go",
+        "marker-color": "#6fbbb7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3640278, 33.756049]
+      },
+      "properties": {
+        "Name": "Superica",
+        "marker-color": "#6fbbb7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.4130027, 33.7820228]
+      },
+      "properties": {
+        "Name": "Miller Union",
+        "marker-color": "#6fbbb7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3789844, 33.7470778]
+      },
+      "properties": {
+        "Name": "Daddy D's BBQ Joynt",
+        "marker-color": "#6fbbb7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.405589, 33.7846513]
+      },
+      "properties": {
+        "Name": "Antico",
+        "marker-color": "#6fbbb7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.4048848, 33.7818203]
+      },
+      "properties": {
+        "Name": "Sublime Donuts",
+        "marker-color": "#6fbbb7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3474759, 33.761066]
+      },
+      "properties": {
+        "Name": "Fox Bros. Bar-B-Q",
+        "marker-color": "#6fbbb7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3541197, 33.7572073]
+      },
+      "properties": {
+        "Name": "One Eared Stag",
+        "marker-color": "#6fbbb7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3740707, 33.7465168]
+      },
+      "properties": {
+        "Name": "Tin Lizzy's",
+        "marker-color": "#6fbbb7"
       }
     }
  ]
