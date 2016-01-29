@@ -1,0 +1,16 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.412062, 33.7852523]
+      },
+      "properties": {
+        "Name": "YEAH! Burger",
+        "marker-color": "#233139"
+      }
+    },
+ ]
+}
